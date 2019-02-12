@@ -10,3 +10,11 @@ index.php
 sidebar.php
 sineCustomTemplate.php
 style.css
+
+
+How to test:
+
+Create a page in Wordpress. 
+Choose a page template called sineustomTemplate.php
+Add something in Post Content.
+View the page.
